@@ -1,0 +1,22 @@
+Reflection
+Zhide Qiu
+
+a. What is mapping in autonomous robotics? 
+
+Mapping in autonomous robotics is a discipline of computer vision and cartography.
+
+b. How important is the map’s accuracy for the robot’s autonomous navigation task? 
+
+It is important because the robot needs position accuracy of the map to determine and view the environments. 
+It contributes to determination of the further process and actions of robots.
+
+c. What are dynamic objects in autonomous robotics? Either explain or provide some examples. 
+
+It is the objects occur in the environments that is with the moving status. For example, human is the dynamic objects
+to the automatic door operator. Once someone is closer, the door would detect the object and process the open operation.
+
+
+d. Should the dynamic objects be present when mapping an arena? Explain the reason for your answer.
+
+It is not necessary to have dynamic objets in this case. We don’t have the requirement of certain movement of objects.
+The dynamic objects only presents once the there are some possibilities of occurrence of moving objects.
